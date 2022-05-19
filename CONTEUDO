@@ -1,0 +1,37 @@
+Os seguintes itens serão parte do plano de ensino:
+
+Teórico
+- Conceitos de DevOps
+- Conceitos de SRE
+- Metodologias ágeis
+- Gerencia de Configuracao
+- Controle de Versão
+- Microservices
+- Tooling/automation
+- Testing
+- CI/CD
+- Logs
+- Monitoramento
+- Observabilidade
+- Imutabilidade
+- Virtualização
+- Containers
+- Orquestração
+- Serverless
+- Provisionamento
+- Cloud Computing
+
+Ferramentas/Prática de laboratório
+- AWS Cloud
+- Google Cloud
+- Azure Cloud
+- Jenkins
+- Docker
+- Git
+- Ansible
+- Prometheus
+- Grafana
+- Kubernetes
+- Terraform
+- Python
+- Shell scripting
